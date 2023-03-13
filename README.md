@@ -7,6 +7,6 @@ Para Correr el proyecto se requiere tener instalado
 
 ## Comandos para correr el proyecto
 
-*yarn install/npm install
+* yarn install/npm install
 
 * yarn dev
